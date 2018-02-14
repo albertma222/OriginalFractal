@@ -23,7 +23,7 @@ public void mousePressed()
 {
 	c++;
 	d++;
-	if(c < 6) {
+	if(c < 8) {
 		b = b /2;
 		fill(255, 255, 255, 10);
 		rect(0,0,500,500);
